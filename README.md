@@ -4,7 +4,10 @@ This repository contains individual and group code that was used for the Final P
 
 Group Members are:
 
-Amina Saleh 30068784
-Lauren Wentzel 30094669
-Huzefa Ansari 30119550
-Jenny Hua 301123141
+Amina Saleh, 30068784
+
+Lauren Wentzel, 30094669
+
+Huzefa Ansari, 30119550
+
+Jenny Hua, 301123141
